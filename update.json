@@ -1,6 +1,6 @@
 {
-    "versionCode": 2,
-    "versionName": "1.2",
+    "versionCode": 1,
+    "versionName": "1.0",
     "updateUrl": "https://github.com/zSayf/Shield/releases/download/V1.0/Shield.V1.0.apk",
     "releaseNotes": "[NEW] 🔄 Cloud-based in-app update system with version monitoring\n[NEW] 📱 Modern UI with Material Design 3 components\n[NEW] 🚀 Automatic update notifications with easy installation\n[IMPROVED] 🛡️ Enhanced authentication system with secure user profiles\n[IMPROVED] 🔒 Secure data handling with Firebase integration\n[IMPROVED] 💾 Internal file storage for secure updates and downloads\n[FIXED] 📊 Performance optimizations for smoother operation",
     "forceUpdate": false,
