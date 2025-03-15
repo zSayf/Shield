@@ -1,6 +1,6 @@
 {
-    "versionCode": 1,
-    "versionName": "1.0",
+    "versionCode": 3,
+    "versionName": "1.3",
     "updateUrl": "https://github.com/zSayf/Shield/releases/download/V1.0/Shield.V1.0.apk",
     "releaseNotes": "- Fixed bugs in authentication\n- Improved UI performance\n- Added new security features\n- Enhanced camera integration\n- Added in-app update system",
     "forceUpdate": false,
