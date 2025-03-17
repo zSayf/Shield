@@ -2,7 +2,6 @@
     "versionCode": 3,
     "versionName": "V1.3",
     "updateUrl": "https://github.com/zSayf/Shield/releases/download/V1.3/Shield.V1.3.apk",
-    "releaseNotes": "[NEW] ✨ Beautiful animated dialogs and interactive buttons\n[NEW] 🎨 Dynamic effects and celebration animations\n[IMPROVED] 📱 Smoother navigation with cleaner step indicators\n[IMPROVED] ⚡ Optimized performance and rendering\n[FIXED] 🔐 Phone authentication and OTP verification issues\n[IMPROVED] 🎯 Streamlined design with reduced visual clutter",
-    "forceUpdate": false,
+    "releaseNotes": "[NEW] ✨ Beautiful animated dialogs and interactive buttons\n[NEW] 🎨 Dynamic effects and celebration animations\n[IMPROVED] 💫 Enhanced splash screen with smoother transitions\n[IMPROVED] 🖌️ Redesigned sign-in page with modern aesthetics\n[IMPROVED] 📱 Smoother navigation with cleaner step indicators\n[IMPROVED] ⚡ Optimized performance and rendering\n[FIXED] 🔐 Phone authentication and OTP verification issues\n[IMPROVED] 🎯 Streamlined design with reduced visual clutter",    "forceUpdate": false,
     "minRequiredVersion": 1
 }
