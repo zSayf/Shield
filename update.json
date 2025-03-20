@@ -1,8 +1,8 @@
 {
-    "versionCode": 4,
-    "versionName": "V1.4",
-    "updateUrl": "https://github.com/zSayf/Shield/releases/download/V1.4/Shield.v1.4.apk",
-    "releaseNotes": "[NEW] 📊 Added version information display throughout the update system\n[NEW] 🔄 Clear visualization of current vs. new app versions\n[IMPROVED] 🎨 Enhanced update screen UI with animations and theming\n[IMPROVED] 🛡️ Integrated AnimatedShieldLogo for consistent branding\n[IMPROVED] 📱 Optimized update notifications and completion screens\n[IMPROVED] 🖌️ Applied app's design language across all update screens\n[IMPROVED] ⚡ Better organization of update information and release notes\n[FIXED] 🎯 Resolved styling issues for consistent appearance",
+    "versionCode": 5,
+    "versionName": "V1.5",
+    "updateUrl": "https://github.com/zSayf/Shield/releases/download/V1.5/Shield.v1.5.apk",
+    "releaseNotes": "[NEW] 📸 Added profile picture selection from gallery and camera\n[NEW] ✂️ Implemented professional image cropping tool\n[NEW] 👤 Sleek new profile page with dark theme\n[IMPROVED] 🚀 Smoother app start-up and profile loading\n[IMPROVED] 🔒 More reliable Google Sign-In\n[FIXED] 🖼️ Resolved image upload issues and profile picture display\n[FIXED] 🐛 Addressed minor bugs and UI glitches",
     "forceUpdate": false,
     "minRequiredVersion": 1
 }
